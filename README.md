@@ -29,8 +29,8 @@ Using an interactive Tableau dashboard and supporting business reports, this pro
 - **Tableau** — Dashboards for profitability, seasonality, geography, discounting  
 - **Statistical Analysis** — R² values, p-values for significance testing  
 - **Storytelling** — PDF deck for stakeholders + formal report write-up  
-- **Business Framing** — Strategic recommendations by timeline and region  
-
+- **Business Framing** — Strategic recommendations by timeline and region
+  
 ---
 
 ## 📂 Files Included
@@ -46,7 +46,7 @@ Using an interactive Tableau dashboard and supporting business reports, this pro
 ## 🔍 Key Insights
 
 - **Tables**: High sales but negative profit margins → cost/pricing problem  
-- **Accessories & Chairs**: High profit, low sales → need targeted promotion  
+- **Accessories & Chairs**: High profit, low sales → need targeted promotion 
 - **Seasonality**: Q4 delivers consistent revenue spikes → prep for inventory & marketing  
 - **Discounting**: Weak correlation with profit (R² = 0.112, p = 0.188) → not reliable  
 - **Geography**: States like Texas & California generate revenue but low profit → revisit pricing  
